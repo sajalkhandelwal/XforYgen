@@ -460,24 +460,4 @@ Wikipedia
 Wildcraft
 Williams Sonoma
 Wireless Power
-Wisebatt
-Wiskas
-Xerox
-Xiaomi
-Xiaomi Poco F1
-Xkcd
-Xprize
-Yahoo
-Yahoo Answers
-Yandex
-Yearbook
-Yelp
-Youtube
-Zappos
-Zara
-Zero Attendance Policy
-Zillow
-Zipcar
-Zomato
-Zoom Car
-Zume
+
