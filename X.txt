@@ -1,16 +1,4 @@
-23andme
-2chan
-﻿3d Printing
-4chan
-500px
-7/11
-500BC
-Aadhaar
-Acer
-Activision
-Adidas
-Angel
-Adobe
+
 Adobe Photoshop
 Aerial
 Airbnb
@@ -34,6 +22,7 @@ Apple Store
 Apple Watch
 Appo
 Ars Technica
+OKahy
 Artificial Intelligence
 Ashley Madison
 Ashley Madison
