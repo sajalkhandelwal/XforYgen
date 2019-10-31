@@ -1,9 +1,9 @@
 /* Setting things up. */
 var path = require('path'),
-    fs = require("fs"),
-    express = require('express'),
     app = express(),
     Twit = require('twit'),
+    fs = require("fs"),
+    express = require('express'),
     config = {
     /* Be sure to update the .env file with your API keys. See how to get them: https://botwiki.org/tutorials/how-to-create-a-twitter-app */
       twitter: {
