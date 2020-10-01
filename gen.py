@@ -28,5 +28,6 @@ Y = [line.strip() for line in Yfile]
 s = "The next big thing is: "
 
 #get a random element in our list of lines.
-s = s + random.choice(X) + " for " + random.choice(Y)
+s = s + random.choice(X) 
+s += " for " + random.choice(Y)
 print (s)
