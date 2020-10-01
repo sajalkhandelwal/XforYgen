@@ -3,8 +3,8 @@ $5 coffee
 7up
 10000
 4wds
-actors
-axe
+Actors
+Axe
 apple
 adjunct professors
 adults
